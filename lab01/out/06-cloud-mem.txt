@@ -1,0 +1,5 @@
+NAME              MEM USAGE / LIMIT
+cnc302-registry   49.99MiB / 384MiB
+cnc302-grafana    70.45MiB / 512MiB
+cnc302-influxdb   31.23MiB / 1GiB
+cnc302-emqx       235.9MiB / 1GiB
