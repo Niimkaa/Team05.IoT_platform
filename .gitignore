@@ -72,3 +72,9 @@ lab07/out/*
 !lab07/out/.gitkeep
 lab08/out/*
 !lab08/out/.gitkeep
+
+# Secrets and device credentials
+.env
+*.key
+*.crt
+devices.csv
